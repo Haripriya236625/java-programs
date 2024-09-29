@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class ElectricityBills2 {
+class ElectricityBills {
     private int consumerNo;
     private String consumerName;
     private int previousReading;
